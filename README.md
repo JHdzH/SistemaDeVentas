@@ -1,2 +1,2 @@
 # SistemaDeVentas
-Para una tienda. Sistema de gestión completo y eficiente para optimizar sus operaciones diarias y facilitar la toma de decisiones.
+Sistema de gestión completo y eficiente para optimizar las operaciones diarias y facilitar la toma de decisiones de una Tienda.
